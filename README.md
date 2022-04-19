@@ -8,3 +8,7 @@ This repository contains codes with a few equations related to the fluid dynamic
 ![simulation of a linear convection](EXP1_SIMULATION.gif "simualtion")
 
 ## Exp2_DiffusionEquation.py
+
+![simulation of diffusion equation_begin](Exp2_simulation_begin.png "simulation") ![simulation of diffusion equation_end](Exp2_simulation_end.png "simulation")
+
+## Exp3_BurgerEquation.py
