@@ -17,3 +17,5 @@ Line 32 to 42 will calculate the next stage of wave and plot them on the graph a
 ![simulation of diffusion equation_begin](Exp2_simulation_begin.png "simulation") ![simulation of diffusion equation_end](Exp2_simulation_end.png "simulation")
 
 ## Exp3_BurgerEquation.py
+
+![simulation of Burger Equation](EXP3_SIMULATION.gif "simulation")
