@@ -19,3 +19,15 @@ Line 32 to 42 will calculate the next stage of wave and plot them on the graph a
 ## Exp3_BurgerEquation.py
 
 ![simulation of Burger Equation](EXP3_SIMULATION.gif "simulation")
+
+## 4.1_3DPlot.py
+
+This is a practice of using 3D plotting in python. 
+
+![simulation of 3D plotting](Exp4.1_simulation.png "simulation")
+
+## Exp4.2_2DLinearConvection_Swift.py
+
+![simulation of 2DLinearConvection_begin](Exp4.2_simulation_begin.png "simulation") ![simulation of 2DLinearConvection_end](Exp4.2_simulation_end.png "simulation")
+
+## Exp5.1_2DDiffusionEqution.py
