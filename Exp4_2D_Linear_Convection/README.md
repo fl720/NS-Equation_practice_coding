@@ -7,4 +7,6 @@ This is a practice of using 3D plotting in python.
 
 # Exp4.2_2DLinearConvection_Swift.py
 
+Modelling the change on a cubic shape fluid after movement. 
+
 ![simulation of 2DLinearConvection_begin](Exp4.2_simulation_begin.png "simulation") ![simulation of 2DLinearConvection_end](Exp4.2_simulation_end.png "simulation")
