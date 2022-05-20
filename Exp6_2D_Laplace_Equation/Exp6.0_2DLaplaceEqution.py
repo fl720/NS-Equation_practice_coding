@@ -40,11 +40,11 @@ Y = np.transpose(Y)
 p[0, :] = 0 
 p[-1,:] = np.linspace(0, y_interval, y) # p(2, y) = y
 
-# ax = plt.axes(projection = "3d")
-# ax.plot_surface(X,Y,p,cmap=cm.viridis)
-# ax.set_xlabel('$x$')
-# ax.set_ylabel('$y$');
-# plt.show()
+ax = plt.axes(projection = "3d")
+ax.plot_surface(X,Y,p,cmap=cm.viridis)
+ax.set_xlabel('$x$')
+ax.set_ylabel('$y$');
+plt.show()
 
 # Iteration
 p_next = p.copy()
