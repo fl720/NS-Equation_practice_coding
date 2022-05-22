@@ -1,6 +1,10 @@
 # Exp6_2D_Laplace_Equation
 
-  In this example, we will generate a plane that is tilted to one side. The result of the simulation is shown below. 
+  In this example, we will generate a plane with one side has more value (densier). The result of the simulation is shown below. 
+
+At beginning:
+
+![simulation of 2D Laplace Equation_at beginning](Exp_6_simulation_begin.png  "simulation")
 
 
 Simulation result:

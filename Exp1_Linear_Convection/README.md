@@ -5,4 +5,4 @@ Generating a wave as "dots" in the cells that are written from line 21 to line 2
 
 Line 32 to 42 will calculate the next stage of wave and plot them on the graph and puase of dt. The simuation will undergoes a loop and clear last graph. 
 
-![simulation of a linear convection](EXP1_SIMULATION.gif "simualtion")
+![simulation of a linear convection](sim_pic/EXP1_SIMULATION.gif "simualtion")
